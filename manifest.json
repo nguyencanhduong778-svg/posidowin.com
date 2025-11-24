@@ -1,0 +1,19 @@
+{
+    "name": "Posido Casino Login entdecken | Online Casino Posido",
+    "short_name": "Posido Casino",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "Posido Casino Login f\u00fcr sicheres Spielen | Posido Online Casino mit schnellen Auszahlungen und exklusiven Boni \u2013 Jetzt registrieren und starten!",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
